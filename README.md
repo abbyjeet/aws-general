@@ -1,1 +1,1 @@
-# [Setup](./setup.md)
+[Setup](./setup.md)
