@@ -17,3 +17,4 @@ wordpress
 ## Serverless - Lambda
 
 ## Example Architectures
+https://aws.amazon.com/blogs/architecture/
