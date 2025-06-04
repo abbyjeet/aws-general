@@ -22,9 +22,9 @@ sudo rm -rf /usr/local/aws-cli | sudo rm /usr/local/bin/aws*
 
 ```
 $aws configure
-AWS Access Key ID [None]: AKIA47VCHBDRGXJB5CEH
-AWS Secret Access Key [None]: 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
-Default region name [None]: ap-southeast-2
+AWS Access Key ID [None]: AKIXXXXXXXXXXXx5CEH
+AWS Secret Access Key [None]: 6AGdP+XXXXXXXXXXXXXXXXd0lGKi
+Default region name [None]: ap-xxxxxxx-2
 Default output format [None]: json
 ```
 
